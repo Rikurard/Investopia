@@ -1,0 +1,32 @@
+h4 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 1vh;
+}
+.sign-in-box {
+    background-color: white;
+    text-align: center;
+    padding: 3rem;
+    margin-top: 2rem;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    position: relative;
+}
+.btn-warning {
+    color: white;
+    background-color: #DD4B39;
+    border: #DD4B39;
+
+    &:hover {
+        color: white;
+        background-color: #ec7f70;
+    }
+}
+.svg-logo {
+width: 80%;
+max-width: 150px;
+height: auto;
+margin: auto;
+}
+
